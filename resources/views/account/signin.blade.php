@@ -38,7 +38,7 @@
 								</label>
 							</div>
 						</div>
-						<a href="{{ URL::route('account-create') }}">New librarian? Sign Up</a>
+						<a href="{{ URL::route('account-create') }}"> Sign Up</a>
 					</div>
 				</form>
 			</div>

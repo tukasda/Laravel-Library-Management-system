@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="alert alert-success">
-					<button type="button" class="close" data-dismiss="alert">×</button>
+					<button type="button" class="close" data-dismiss="alert"></button>
 					{{ Session::get('global') }}
 				</div>
 			</div>

@@ -1,5 +1,5 @@
 <div class="footer">
 	<div class="container">
-		<b class="copyright">&copy; {{ date('Y') }} - Online Library Management System </b> All rights reserved.
+		<b class="copyright">&copy; {{ date('Y') }} - NMIT Library Management System </b> NMIT Sofware.
 	</div>
 </div>

@@ -4,7 +4,7 @@
 <div class="content">
     <div class="btn-controls">
         <div class="btn-box-row row-fluid" >
-            <button class="btn-box span12" style="background: #9400D3; ">
+            <button class="btn-box span12" style="background: #8FBC8F; ">
                 <b style="color:#fff">Online Library Management System</b>
             </button>
         </div>
